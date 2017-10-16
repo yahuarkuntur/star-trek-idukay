@@ -37,7 +37,3 @@ if ( -1 == result.time ) {
     console.log('Operational time: ' + result.time + ' minutes ' );
 }
 
-
-
-
-
