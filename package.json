@@ -1,0 +1,19 @@
+{
+  "name": "star-trek",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "Brian Debuire",
+    "email": "debuirebrian@gmail.com"
+  },
+  "scripts": {
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yahuarkuntur/star-trek-idukay"
+  },
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
